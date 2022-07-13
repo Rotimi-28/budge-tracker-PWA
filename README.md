@@ -38,8 +38,11 @@ ________________________________________________________________________________
 [https://github.com/Rotimi-28/budge-tracker-PWA](#Github)
 #### email : 
 [matanmearoja@yahoo.com](#email)
-
-#### Screenshot ![](Screen Shot 2022-07-12 at 5.11.40 PM.png)
-
 #### Heroku: 
 [https://dashboard.heroku.com/apps/budge-tracker-pwa/activity/builds/445ca15f-06c9-436f-b491-a9e7001bd1b0](#heroku)
+
+
+#### Screenshot 
+![](<img width="1440" alt="budget-tracker" src="https://user-images.githubusercontent.com/96090900/178628388-a46ce577-8380-4925-9208-03f98b6bab44.png">
+)
+
