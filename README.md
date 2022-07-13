@@ -41,8 +41,6 @@ ________________________________________________________________________________
 #### Heroku: 
 [https://dashboard.heroku.com/apps/budge-tracker-pwa/activity/builds/445ca15f-06c9-436f-b491-a9e7001bd1b0](#heroku)
 
-Screenshot
-__________________________________________________________________________________________________________________________________________________________
-![](<img width="1440" alt="budget-tracker" src="https://user-images.githubusercontent.com/96090900/178628388-a46ce577-8380-4925-9208-03f98b6bab44.png">
-)
+Screenshot:![]()<img width="1440" alt="budget-tracker" src="https://user-images.githubusercontent.com/96090900/178629156-d034a1b3-5509-443e-9343-503a62275f86.png">
+
 
